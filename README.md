@@ -1,7 +1,7 @@
-Hi, I’m @basilmik  
-i'm 3rd year CS student at SUAI
-I’m interested in android app development and game design
-I’m currently just vibin'
+Hi, i’m @basilmik  
+i'm 3rd year CS student at SUAI  
+i’m interested in android app development and game design  
+i’m currently just vibin'
 
 <!---
 basilmik/basilmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
