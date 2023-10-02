@@ -1,5 +1,5 @@
 Hi, i’m @basilmik  
-i'm 3rd year CS student at SUAI  
+i'm 4th year CS student at SUAI 
 i’m interested in android app development and game design  
 i’m currently just vibin'
 
