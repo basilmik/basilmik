@@ -1,5 +1,6 @@
 Hi, i’m @basilmik  
-i'm former CS major, currentry getting a master's dergee in neurotech at ITMO
+i'm former CS major,   
+currentry getting a master's dergee in neurotech at ITMO  
 i’m interested in BCI, robotics and games  
 
 
